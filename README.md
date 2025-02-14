@@ -16,7 +16,7 @@ Ensure you have Python installed (version 3.x recommended). You can download it 
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/advanced-port-scanner.git
+git clone https://github.com/imrootuser/advanced-port-scanner.git
 cd advanced-port-scanner
 ```
 
